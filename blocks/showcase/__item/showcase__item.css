@@ -1,0 +1,9 @@
+.showcase__item {
+    display: flex;
+    flex-direction: column;
+    background: #FFFFFF;
+    border: 8px solid #F6FBF3;
+    box-sizing: border-box;
+    border-radius: 5px;
+    max-width: 288px;
+}

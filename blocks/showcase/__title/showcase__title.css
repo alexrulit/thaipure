@@ -1,0 +1,11 @@
+.showcase__title {
+    max-width: 707px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 150%;
+    letter-spacing: 0.05em;
+    color: #252D24;
+    margin: 82px 0 92px 32px;
+}

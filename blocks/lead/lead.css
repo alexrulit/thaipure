@@ -1,0 +1,15 @@
+@import url(./__title/lead__title.css);
+@import url(./__subtitle/lead__subtitle.css);
+@import url(./__form/lead__form.css);
+@import url(./__input/lead__input.css);
+@import url(./__button/lead__button.css);
+@import url(./__accept/lead__accept.css);
+@import url(./__form-link/lead__form-link.css);
+@import url(./__image/lead__image.css);
+
+.lead {
+    position: relative;
+    background-image: url(../../images/lead_bg.png), linear-gradient(89.87deg, #AAF081 13.57%, #E8FFDA 97.26%);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

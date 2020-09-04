@@ -1,0 +1,8 @@
+.energy__text-container {
+    width: 611px;
+    height: 251px;
+    margin: 70px 19px 158px 0;
+    background-image: url(../../../images/energy_bg.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}

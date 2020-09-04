@@ -1,0 +1,35 @@
+.options__item {
+    display: flex;
+    flex-direction: row;
+    z-index: 1;
+}
+
+.options__item:nth-child(1) {
+    position: absolute;
+    top: 84px;
+    right: 153px;
+}
+
+.options__item:nth-child(2) {
+    position: absolute;
+    top: 225px;
+    right: 30px;
+}
+
+.options__item:nth-child(3) {
+    position: absolute;
+    top: 370px;
+    right: -8px;
+}
+
+.options__item:nth-child(4) {
+    position: absolute;
+    top: 500px;
+    right: 14px;
+}
+
+.options__item:nth-child(5) {
+    position: absolute;
+    top: 640px;
+    right: 105px;
+}

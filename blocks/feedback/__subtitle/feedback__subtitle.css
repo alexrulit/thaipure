@@ -1,0 +1,11 @@
+.feedback__subtitle {
+    max-width: 385px;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 155.5%;
+    text-align: center;
+    color: #252D24;
+    margin: 0 auto 44px;
+}

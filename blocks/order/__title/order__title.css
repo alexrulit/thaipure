@@ -1,0 +1,11 @@
+.order__title {
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 150%;
+    letter-spacing: 0.05em;
+    max-width: 837px;
+    margin: 0 0 121px 32px;
+    padding-top: 91px;
+}

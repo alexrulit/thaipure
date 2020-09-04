@@ -1,0 +1,5 @@
+.footer__title {
+    display: flex;
+    flex-direction: row;
+    margin: 58px 0 49px 35px;
+}

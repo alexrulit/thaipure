@@ -1,0 +1,12 @@
+.options__title {
+    max-width: 713px;
+    font-family: Playfair Display;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 150%;
+    letter-spacing: 0.05em;
+    color: #252D24;
+    margin: 0 0 0 32px;
+    padding-top: 195px;
+}
