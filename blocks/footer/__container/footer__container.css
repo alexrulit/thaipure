@@ -1,0 +1,15 @@
+.footer__container {
+    margin-left: 32px;
+}
+
+@media screen and (max-width: 1920px) {
+    .footer__container {
+        margin-left: calc((100% - 1214px)/2);
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .footer__container {
+        margin-left: calc((100% - 960px)/2);
+    }
+}

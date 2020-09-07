@@ -8,6 +8,7 @@
 @import url(./__phone-link/footer__phone-link.css);
 @import url(./__social/footer__social.css);
 @import url(./__icon/footer__icon.css);
+@import url(./__container/footer__container.css);
 
 .footer {
     display: flex;

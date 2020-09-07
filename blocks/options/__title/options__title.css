@@ -8,5 +8,18 @@
     letter-spacing: 0.05em;
     color: #252D24;
     margin: 0 0 0 32px;
-    padding-top: 195px;
+    padding-top: 160px;
+    padding-bottom: 50px;
+}
+
+@media screen and (max-width: 1920px) {
+    .options__title {
+        margin: 0 0 0 calc((100% - 1214px)/2);
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .options__title {
+        margin: 0 0 0 calc((100% - 960px)/2);
+    }
 }

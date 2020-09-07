@@ -13,3 +13,10 @@
     line-height: 155.5%;
     color: #252D24;
 }
+
+
+@media screen and (max-width: 1200px) {
+    .order__input {
+        width: 415px;
+    }
+}

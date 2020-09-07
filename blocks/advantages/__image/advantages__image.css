@@ -1,3 +1,10 @@
 .advantages__image {
-    margin-right: 63px;
+    width: 608px;
+}
+
+@media screen and (max-width: 1200px) {
+    .advantages__image {
+        width: 580px;
+        margin-left: -150px;
+    }
 }

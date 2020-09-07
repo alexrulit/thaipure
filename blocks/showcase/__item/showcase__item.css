@@ -7,3 +7,9 @@
     border-radius: 5px;
     max-width: 288px;
 }
+
+@media screen and (max-width: 1200px) {
+    .showcase__item {
+        max-width: 225px;
+    }
+}

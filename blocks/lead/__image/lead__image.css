@@ -3,3 +3,9 @@
     top: 45px;
     right: 100px;
 }
+
+@media screen and (max-width: 1920px) {
+    .lead__image {
+        right: calc((100% - 1214px)/2);
+    }
+}

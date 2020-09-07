@@ -3,3 +3,9 @@
     height: 235px;
     object-fit: cover;
 }
+
+@media screen and (max-width: 1200px) {
+    .showcase__icon {
+        width: 208px;
+    }
+}

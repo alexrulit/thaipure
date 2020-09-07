@@ -1,10 +1,5 @@
 .options__list {
-    position: relative;
-    height: 780px;
     list-style-type: none;
     margin: 0;
     padding: 0;
-    background-image: url(../../../images/options.png);
-    background-repeat: no-repeat;
-    background-position: top 0 right 0;
 }

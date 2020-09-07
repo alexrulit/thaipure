@@ -6,3 +6,10 @@
     background-repeat: no-repeat;
     background-size: contain;
 }
+
+@media screen and (max-width: 1200px) {
+    .energy__text-container {
+        width: 516px;
+        height: 212px;
+    }
+}

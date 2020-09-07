@@ -9,3 +9,15 @@
     margin: 0 0 121px 32px;
     padding-top: 91px;
 }
+
+@media screen and (max-width: 1920px) {
+    .order__title {
+        margin: 0 0 121px calc((100% - 1214px)/2);
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .order__title {
+        margin: 0 0 121px calc((100% - 960px)/2);
+    }
+}

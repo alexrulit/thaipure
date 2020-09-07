@@ -13,3 +13,15 @@
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+@media screen and (max-width: 1920px) and (min-width: 1440px) {
+    .lead {
+        background-image: url(../../images/lead_bg_1920.png), linear-gradient(89.87deg, #AAF081 13.57%, #E8FFDA 97.26%);
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .lead {
+        background-image: url(../../images/lead_bg_1024.png), linear-gradient(89.87deg, #AAF081 13.57%, #E8FFDA 97.26%);
+    }
+}

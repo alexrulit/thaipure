@@ -1,0 +1,11 @@
+.order__cert {
+    width: 596px;
+    height: 592px;
+}
+
+@media screen and (max-width: 1200px) {
+    .order__cert {
+        width: 434px;
+        height: 374px;
+    }
+}

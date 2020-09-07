@@ -9,3 +9,9 @@
     max-width: 470px;
     margin: 0 75px 0 50px;
 }
+
+@media screen and (max-width: 1200px) {
+    .order__accept {
+        max-width: 412px;
+    }
+}

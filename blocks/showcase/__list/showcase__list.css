@@ -6,3 +6,16 @@
     margin: 0 32px 0;
     padding: 0;
 }
+
+@media screen and (max-width: 1920px) {
+    .showcase__list {
+        margin: 0 calc((100% - 1214px)/2) 0;
+    }
+}
+
+
+@media screen and (max-width: 1200px) {
+    .showcase__list {
+        margin: 0 calc((100% - 960px)/2) 0;
+    }
+}

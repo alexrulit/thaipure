@@ -3,3 +3,17 @@
     flex-direction: row;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 1920px) {
+    .advantages__title-section {
+        margin-right: calc((100% - 1214px)/2);
+        margin-left: calc((100% - 1214px)/2);
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .advantages__title-section {
+        margin-right: calc((100% - 960px)/2);
+        margin-left: calc((100% - 960px)/2);
+    }
+}

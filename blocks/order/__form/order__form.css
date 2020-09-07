@@ -5,7 +5,7 @@
     width: 574px;
     height: 545px;
     background: #F6FBF3;
-    margin: 0 32px 144px 70px;
+    margin: 0 0 144px 50px;
 }
 
 .order__form::before {
@@ -18,4 +18,12 @@
     background: linear-gradient(89.87deg, #AAF081 13.57%, #E8FFDA 97.26%);
     border-radius: 5px;
     z-index: -1;
+}
+
+
+@media screen and (max-width: 1200px) {
+    .order__form {
+        width: 471px;
+        height: 448px;
+    }
 }

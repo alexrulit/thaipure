@@ -4,3 +4,17 @@
     flex-direction: row;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 1920px) {
+    .energy__container {
+        margin-left: calc((100% - 1214px)/2);
+        margin-right: calc((100% - 1214px)/2);
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .energy__container {
+        margin-left: calc((100% - 960px)/2);
+        margin-right: -20px;
+    }
+}

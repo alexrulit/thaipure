@@ -1,17 +1,17 @@
 .offer__advantage:nth-child(1) {
     position: absolute;
     top: 100px;
-    right: 460px;
+    left: 18px;
 }
 
 .offer__advantage:nth-child(2) {
     position: absolute;
     top: 285px;
-    right: 448px;
+    left: -4px;
 }
 
 .offer__advantage:nth-child(3) {
     position: absolute;
     top: 400px;
-    right: 342px;
+    left: 75px;
 }

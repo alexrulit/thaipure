@@ -2,3 +2,15 @@
     display: flex;
     flex-direction: column;
 }
+
+@media screen and (max-width: 1920px) {
+    .lead__form {
+        margin: 0 0 0 calc((100% - 1214px)/2);
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .lead__form {
+        margin: 0 0 0 calc((100% - 960px)/2);
+    }
+}
