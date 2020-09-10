@@ -20,8 +20,15 @@
     transition: all 0.3s ease-in;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1250px) {
     .order__button {
         width: 415px;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .order__button {
+        width: 362px;
+        margin: 2px auto 8px;
     }
 }

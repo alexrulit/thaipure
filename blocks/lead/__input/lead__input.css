@@ -13,3 +13,15 @@
     line-height: 155.5%;
     color: #252D24;
 }
+
+@media screen and (max-width: 990px) {
+    .lead__input {
+        width: 414px;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .lead__input {
+        display: none;
+    }
+}

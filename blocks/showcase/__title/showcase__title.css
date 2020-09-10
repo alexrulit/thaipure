@@ -16,8 +16,28 @@
     }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1250px) {
     .showcase__title {
         margin: 82px 0 92px calc((100% - 960px)/2);
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .showcase__title {
+        margin: 82px 0 92px calc((100% - 728px)/2);
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .showcase__title {
+        margin: 55px 0 26px calc((100% - 440px)/2);
+        max-width: 450px;
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 459px) {
+    .showcase__title {
+        margin: 55px calc((100% - 288px)/2) 26px;
     }
 }

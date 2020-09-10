@@ -7,3 +7,11 @@
     line-height: 155.5%;
     color: #252D24;
 }
+
+@media screen and (max-width: 740px) {
+    .feedback__username {
+        font-size: 14px;
+        text-align: center;
+        margin: 0 auto;
+    }
+}

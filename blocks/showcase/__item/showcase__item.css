@@ -8,8 +8,21 @@
     max-width: 288px;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1250px) {
     .showcase__item {
         max-width: 225px;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .showcase__item {
+        max-width: 230px;
+        justify-self: center;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .showcase__item {
+        max-width: 288px;
     }
 }

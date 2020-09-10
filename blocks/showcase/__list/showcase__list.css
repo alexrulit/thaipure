@@ -14,8 +14,24 @@
 }
 
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1250px) {
     .showcase__list {
         margin: 0 calc((100% - 960px)/2) 0;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .showcase__list {
+        margin: 0 calc((100% - 728px)/2) 0;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 60px 0px;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .showcase__list {
+        margin: 0 calc((100% - 440px)/2) 0;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 45px 0px;
     }
 }

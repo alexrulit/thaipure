@@ -9,3 +9,13 @@
     margin-left: 16px;
     margin-top: 21px;
 }
+
+@media screen and (max-width: 740px) {
+    .header__about {
+        max-width: 174px;
+        font-size: 9px;
+        text-align: center;
+        margin-top: 0;
+        margin-left: 0;
+    }
+}

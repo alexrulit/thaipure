@@ -11,3 +11,11 @@
     margin: 0 auto 31px;
     padding-top: 87px;
 }
+
+@media screen and (max-width: 740px) {
+    .feedback__title {
+        font-size: 18px;
+        padding-top: 50px;
+    }
+}
+

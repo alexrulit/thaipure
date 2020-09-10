@@ -10,7 +10,7 @@
     margin: 60px auto 80px;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1250px) {
     .order__form-title {
         max-width: 400px;
         margin: 60px auto 40px;

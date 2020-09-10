@@ -10,3 +10,13 @@
     padding-right: 16px;
     border-right: 1px solid #FFFFFF;
 }
+
+@media screen and (max-width: 740px) {
+    .footer__logo {
+        border-right: none;
+        font-size: 18px;
+        text-align: center;
+        margin: 0 auto;
+        padding-right: 0;
+    }
+}

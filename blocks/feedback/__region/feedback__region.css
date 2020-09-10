@@ -8,3 +8,11 @@
     margin-left: 100px;
     max-width: 181px;
 }
+
+@media screen and (max-width: 740px) {
+    .feedback__region {
+        font-size: 12px;
+        text-align: center;
+        margin: 0 auto;
+    }
+}

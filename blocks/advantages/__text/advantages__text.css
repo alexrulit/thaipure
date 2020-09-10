@@ -10,8 +10,24 @@
     align-self: center;
 }
 
-@media screen and (max-width: 1200) {
+@media screen and (max-width: 1250px) {
     .advantages__text {
         max-width: 247px;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .advantages__text {
+        max-width: 197px;
+        margin: 0 0 0 11px;
+        align-self: flex-start;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .advantages__text {
+        width: 238px;
+        margin: 0 auto;
+        font-size: 12px;
     }
 }

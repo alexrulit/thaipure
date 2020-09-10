@@ -10,8 +10,27 @@
     color: #252D24;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1250px) {
     .advantages__title {
         margin: 50px 0 0 0;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .advantages__title {
+        margin: 0;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .advantages__title {
+        font-size: 18px;
+        width: 450px;
+    }
+}
+
+@media screen and (max-width: 459px) {
+    .advantages__title {
+        width: 290px;
     }
 }

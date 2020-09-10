@@ -9,3 +9,16 @@
     color: #252D24;
     margin: 0 auto 44px;
 }
+
+@media screen and (max-width: 740px) {
+    .feedback__subtitle {
+        font-size: 14px;
+        margin: 0 auto 23px;
+    }
+}
+
+@media screen and (max-width: 459px) {
+    .feedback__subtitle {
+        max-width: 290px;
+    }
+}

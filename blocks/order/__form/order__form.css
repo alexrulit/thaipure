@@ -21,9 +21,22 @@
 }
 
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1250px) {
     .order__form {
         width: 471px;
         height: 448px;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .order__form {
+        width: 416px;
+        margin: 0 0 144px -50px;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .order__form {
+        display: none;
     }
 }

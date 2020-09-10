@@ -8,3 +8,9 @@
     max-width: 469px;
     margin: 10px 0 60px 0;
 }
+
+@media screen and (max-width: 740px) {
+    .lead__accept {
+        display: none;
+    }
+}

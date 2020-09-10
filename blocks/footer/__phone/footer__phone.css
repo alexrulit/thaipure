@@ -9,3 +9,9 @@
     max-width: 326px;
     margin-bottom: 10px;
 }
+
+@media screen and (max-width: 740px) {
+    .footer__phone {
+        margin: 0 auto 10px;
+    }
+}

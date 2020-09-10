@@ -8,8 +8,20 @@
     }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1250px) {
     .footer__contact {
         margin: 69px calc((100% - 960px)/2) 0 0;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .footer__contact {
+        margin: 69px calc((100% - 728px)/2) 0 0;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .footer__contact {
+        margin: -130px auto 60px;
     }
 }

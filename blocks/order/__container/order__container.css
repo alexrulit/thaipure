@@ -10,9 +10,23 @@
     }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1250px) {
     .order__container {
         margin-left: calc((100% - 960px)/2);
         margin-right: calc((100% - 960px)/2);
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .order__container {
+        margin-left: calc((100% - 728px)/2);
+        margin-right: calc((100% - 728px)/2);
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .order__container {
+        flex-direction: column;
+        margin: 0 auto;
     }
 }

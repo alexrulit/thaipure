@@ -8,3 +8,11 @@
     margin: 2px 0 0 0;
     max-width: 589px;
 }
+
+@media screen and (max-width: 740px) {
+    .feedback__item-title {
+        font-size: 14px;
+        max-width: 290px;
+        margin: 10px auto 0;
+    }
+}

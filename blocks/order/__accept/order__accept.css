@@ -10,8 +10,15 @@
     margin: 0 75px 0 50px;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1250px) {
     .order__accept {
         max-width: 412px;
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .order__accept {
+        max-width: 362px;
+        margin: 0 auto 0;
     }
 }

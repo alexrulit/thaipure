@@ -8,3 +8,11 @@
     max-width: 700px;
     margin: 18px 103px 0 0;
 }
+
+@media screen and (max-width: 740px) {
+    .feedback__paragraph {
+        font-size: 12px;
+        margin: 16px auto 0;
+        max-width: 290px;
+    }
+}

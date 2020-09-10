@@ -11,3 +11,16 @@
     background: linear-gradient(180deg, #F6FBF3 0%, rgba(246, 251, 243, 0) 100%);
     padding-top: 210px;
 }
+
+@media screen and (max-width: 990px) {
+    .advantages {
+        padding-top: 160px;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .advantages {
+        padding-top: 200px;
+        background: white;
+    }
+}

@@ -10,3 +10,18 @@
     margin: 185px auto 0;
     max-width: 810px;
 }
+
+@media screen and (max-width: 740px) {
+    .energy__title {
+        font-size: 18px;
+        max-width: 450px;
+        text-align: start;
+        margin: 85px auto 0;
+    }
+}
+
+@media screen and (max-width: 459px) {
+    .energy__title {
+        max-width: 290px;
+    }
+}

@@ -9,8 +9,15 @@
     margin: 0;
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1250px) {
     .options__item-subtitle {
-        max-width: 400px;
+        max-width: 330px;
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .options__item-subtitle {
+        font-size: 12px;
+        margin: 0 0 26px 0;
     }
 }

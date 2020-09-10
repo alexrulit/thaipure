@@ -10,3 +10,9 @@
     max-width: 158px;
     margin-bottom: 70px;
 }
+
+@media screen and (max-width: 740px) {
+    .footer__phone-link {
+        display: none;
+    }
+}

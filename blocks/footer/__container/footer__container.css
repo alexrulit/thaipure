@@ -8,8 +8,20 @@
     }
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1250px) {
     .footer__container {
         margin-left: calc((100% - 960px)/2);
+    }
+}
+
+@media screen and (max-width: 990px) {
+    .footer__container {
+        margin-left: calc((100% - 728px)/2);
+    }
+}
+
+@media screen and (max-width: 740px) {
+    .footer__container {
+        margin: 0 auto;
     }
 }
