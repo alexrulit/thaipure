@@ -10,7 +10,7 @@
 .options {
     position: relative;
     padding-top: 100px;
-    background-image: url(../../../images/options_bg.png);
+    background: url(../../images/options_bg.png);
     background-repeat: no-repeat;
     background-size: 81% auto;
     background-position: left bottom;
