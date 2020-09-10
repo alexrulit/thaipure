@@ -7,7 +7,7 @@
 
 @media screen and (max-width: 740px) {
     .options__image {
-        content: url(../../../images/options_480.svg);
+        content: url(../../../images/bottle_480.png);
         width: 176px;
         height: 276px;
         order: 1;
